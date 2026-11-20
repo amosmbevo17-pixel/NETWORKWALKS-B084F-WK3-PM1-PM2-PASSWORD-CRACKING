@@ -70,15 +70,18 @@ This module involved extracting a password hash from an encrypted PDF and using 
 
 **Evidence:**
 
-![PDF Hash Extraction](PM1-JOHN-THE-RIPPER/screenshots/01-hash-extraction.png)
+<img width="1366" height="720" alt="PDF Hash Extractor for Authorized Testing _ OHC - Google Chrome 20_11_2026 20_04_26" src="https://github.com/user-attachments/assets/0a23bbc2-aa3f-4cba-b986-a053cec51d00" />
+
 
 *Figure 1: PDF hash extraction.*
 
-![Johnny Interface](PM1-JOHN-THE-RIPPER/screenshots/02-johnny-interface.png)
+<img width="896" height="654" alt="image" src="https://github.com/user-attachments/assets/524b5f7d-259d-4cf6-899a-d303e405503a" />
+
 
 *Figure 2: Extracted hash loaded into Johnny.*
 
-![Password Recovery](PM1-JOHN-THE-RIPPER/screenshots/03-password-recovery.png)
+<img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/982a5dbd-248b-4806-b9c6-18c72846460a" />
+
 
 *Figure 3: Successful password recovery.*
 
@@ -109,25 +112,20 @@ This module involved using the browser-based Networkwalks Hash Calculator and Pa
 
 **Evidence:**
 
-![Networkwalks Hash Calculator](PM2-NETWORKWALKS-TOOLS/screenshots/01-hash-calculator.png)
+<img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/81278733-971c-433f-b06c-a1484ae3e569" />
 
-*Figure 4: Networkwalks Hash Calculator.*
 
-![Extracted Hash](PM2-NETWORKWALKS-TOOLS/screenshots/02-extracted-hash.png)
+*Figure 4: Extracted PDF hash.*
 
-*Figure 5: Extracted PDF hash.*
+<img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/39522634-83b6-4c21-8dd2-a26836aa178b" />
 
-![Password Cracker](PM2-NETWORKWALKS-TOOLS/screenshots/03-password-cracker.png)
 
-*Figure 6: Networkwalks Password Cracker.*
+*Figure 5: Password-cracking result.*
 
-![Cracking Result](PM2-NETWORKWALKS-TOOLS/screenshots/04-cracking-result.png)
+<img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/a8b6fa55-a553-4f73-a6d8-007e99a4cfbb" />
 
-*Figure 7: Password-cracking result.*
 
-![Flag Verification](PM2-NETWORKWALKS-TOOLS/screenshots/05-flag-verification.png)
-
-*Figure 8: Successful lab completion and flag verification.*
+*Figure 6: Successful lab completion and flag verification.*
 
 ## 5. Results and Findings
 
